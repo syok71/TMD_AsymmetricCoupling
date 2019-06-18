@@ -7,9 +7,9 @@ All programs can be performed based on the MATLAB progam by incorporating MATLAB
 
 In ICS folder, "Run_STMD_DSG.m" is a main program to design single TMD by using Den Hartog design formula.
 
-In ACS1~ACS3 folders, "RunMain_M3.m", "RunMain_M4.m" and "RunMain_M5.m" are the main code to perform the multi-objective optimization.
+In ACS1, ACS2 and ACS3 folders, "RunMain_M3.m", "RunMain_M4.m" and "RunMain_M5.m" are the main code to perform the multi-objective optimization.
 Each design program produces the corresponding design results, named as "RunMain_M3_DsgResult.mat", "RunMain_M4_DsgResult.mat" and "RunMain_M5_DsgResult.mat".
-Then, "RunMain_M3_Post.m", "RunMain_M4_Post.m" and "RunMain_M5_Post.m" are the post-processing programs to investigate the comparative performances of the three systems such as ACS1~ACS3. These post-process programs produce the post-process results, named as "RunMain_M3_PostResult.mat", "RunMain_M4_PostResult.mat" and "RunMain_M5_PostResult.mat".
+Then, "RunMain_M3_Post.m", "RunMain_M4_Post.m" and "RunMain_M5_Post.m" are the post-processing programs to investigate the comparative performances of the three systems such as ACS1, ACS2 and ACS3. These post-process programs produce the post-process results, named as "RunMain_M3_PostResult.mat", "RunMain_M4_PostResult.mat" and "RunMain_M5_PostResult.mat".
 
 The remaining files are the sub-functions for the main design and post-process.
 
