@@ -19,4 +19,6 @@ In ACS1, ACS2 and ACS3 folders, "RunMain_M3.m", "RunMain_M4.m" and "RunMain_M5.m
 
 The remaining files are the sub-functions for the main design and the post-processing.
 
-One could modify the files to solve other similar problems of interest. Acknowledgement: This study was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (2017R1D1A1B04031418).
+One could modify the files to solve other similar problems of interest. 
+
+Acknowledgement: This study was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (2017R1D1A1B04031418).
